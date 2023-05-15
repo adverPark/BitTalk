@@ -1,2 +1,1 @@
 # BitTalk
-bittalk create
